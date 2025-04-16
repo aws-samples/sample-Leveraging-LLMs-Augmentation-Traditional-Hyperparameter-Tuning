@@ -6,4 +6,4 @@ numpy==2.2.4
 tenacity==8.5.0
 torch==2.6.0
 torchvision==0.21.0
-tqdm==4.66.2
+tqdm==4.66.3
