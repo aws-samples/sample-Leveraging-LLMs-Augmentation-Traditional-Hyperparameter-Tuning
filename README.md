@@ -1,6 +1,6 @@
 # Leveraging LLMs as an Augmentation to Traditional Hyperparameter Tuning
 
-A demo that leverages Large Language Models to automatically analyze, design, and refine neural network architectures during the training process by monitoring gradient flows. The associated blog post can be found [here](google.com).
+A demo that leverages Large Language Models to automatically analyze, design, and refine neural network architectures during the training process by monitoring gradient flows. The associated blog post can be found [here](https://aws.amazon.com/blogs/hpc/leveraging-llms-as-an-augmentation-to-traditional-hyperparameter-tuning/).
 
 ## Overview
 This project demonstrates how LLMs can serve as an alternative to traditional hyperparameter tuning, using Claude (via AWS Bedrock) to analyze training metrics, gradient flows, and model stability. The system can recommend and implement both architecture changes and hyperparameter adjustments to improve model performance without requiring exhaustive parameter searches.
